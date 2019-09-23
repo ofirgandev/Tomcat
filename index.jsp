@@ -3,10 +3,10 @@
   <title>Echoing HTML Request Parameters</title>
 </head>
 <body>
-  <h3>Choose an author:</h3>
+  <h3>Choose a King: </h3>
   <form method="get">
     <input type="checkbox" name="author" value="Ofir Gan">Ofir
-    <input type="checkbox" name="author" value="Tima Kukushkin">Tima The King
+    <input type="checkbox" name="author" value="Tima Kukushkin">Tima
     <input type="submit" value="Query">
   </form>
  
