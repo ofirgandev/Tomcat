@@ -14,7 +14,7 @@
   String[] authors = request.getParameterValues("author");
   if (authors != null) {
   %>
-    <h3>You have selected author(s):</h3>
+    <h3>You have selected:</h3>
     <ul>
   <%
       for (int i = 0; i < authors.length; ++i) {
