@@ -5,8 +5,8 @@
 <body>
   <h3>Choose Your Name: </h3>
   <form method="get">
-    <input type="checkbox" name="author" value="Ofir Gan">Ofir
-    <input type="checkbox" name="author" value="Tima Kukushkin">Tima
+    <input type="checkbox" name="author" value="Ofir Gan!">Ofir
+    <input type="checkbox" name="author" value="Tima Kukushkin!">Tima
     <input type="submit" value="Query">
   </form>
  
